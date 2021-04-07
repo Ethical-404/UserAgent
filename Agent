@@ -969,7 +969,4 @@ class crack3:
 		except:
 			self.main(fl)
 if __name__=='__main__':
-  menu()
-#Coded by Arbab
-#03003023263
-######Dashing
+         menu()
